@@ -5,3 +5,6 @@ googleadservices.com
 googleads.g.doubleclick.net
 tpc.googlesyndication.com
 picasa.google.com
+static.doubleclick.net
+ssl.google-analytics.com
+google-analytics.com
