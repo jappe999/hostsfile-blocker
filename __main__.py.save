@@ -1,7 +1,0 @@
-from hostsfile import HostsFile
-
-if __name__ == '__main__':
-hosts = open('domains
-	hostsf = HostsFile()
-	for host in hosts:
-		hostsf.block(host)
